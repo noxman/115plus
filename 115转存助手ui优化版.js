@@ -23,8 +23,8 @@
 // @connect      115.com
 
 // @require      https://unpkg.zhimg.com/underscore@1.12.0/underscore-min.js
-// @require      https://unpkg.zhimg.com/sweetalert2@11.3.0
-// @require      https://unpkg.zhimg.com/node-forge@0.10.0/dist/forge.min.js
+// @require      https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/limonte-sweetalert2/11.3.0/sweetalert2.min.js
+// @require      https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/forge/0.10.0/forge.min.js
 // @require      https://unpkg.zhimg.com/emoutils@2.0.0/dist/umd/emoutils.min.js
 // ==/UserScript==
 
